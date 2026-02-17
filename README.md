@@ -84,7 +84,7 @@ The histogram shows a positively skewed distribution where most observations lie
 
 ### Histogram of Transformed Variable with Fitted PDF
 
-![Histogram of Transformed Data](output1.png)
+![Histogram of Transformed Data](output2.png)
 
 The transformed variable distribution becomes smoother and the fitted theoretical probability density curve aligns closely with the central region of the histogram, indicating that the estimated parameters effectively capture the distribution characteristics.
 
